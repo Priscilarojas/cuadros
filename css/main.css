@@ -1,0 +1,40 @@
+.caja1{
+  height: 50vh;
+  width: 60vh;
+  background-color: red;
+}
+.caja2{
+  height: 25vh;
+  width: 30vh;
+  background-color: violet;
+  position: relative;
+  top: 12vh;
+  left: 15vh;
+}
+.caja3{
+  height: 14vh;
+  width: 15vh;
+  background-color: yellow;
+}
+.cajita1{
+  height: 50vh;
+  width: 60vh;
+  background-color: blue;
+  margin-top: 3vh;
+}
+.cajita2{
+  height: 25vh;
+  width: 30vh;
+  background-color: green;
+  position: relative;
+  top: 13vh;
+  left: 15vh;
+}
+.cajita3{
+  height: 13vh;
+  width: 15vh;
+  background-color: black;
+  position: relative;
+  top: -13vh;
+  left: -15vh;
+}
